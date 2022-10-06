@@ -12,3 +12,4 @@ function Home({ isLoggedIn }) {
 }
 
 export default Home;
+
